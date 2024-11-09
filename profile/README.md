@@ -1,5 +1,4 @@
-# **Yuscraft**  
-*Crafting the future with transparency and innovation.*
+## **Crafting with transparency and trust**
 
 ## **About Us**  
 Yuscraft is a tech-driven organization dedicated to empowering businesses and communities with blockchain technology. Our mission is to lead the **transparency and anti-fraud movement** by delivering cutting-edge decentralized solutions that solve real-world problems.  
