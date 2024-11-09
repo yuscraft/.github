@@ -21,7 +21,7 @@ Are you a developer, blockchain enthusiast, or organization interested in collab
 - Join us in building a community passionate about blockchain and decentralized technologies.
 
 ## **Contact Us**  
-📱 Follow us on social media: [LinkedIn](#), [Twitter](#)
+📱: [Telegram](https://t.me/nurlanyus)
 
 ---
 
